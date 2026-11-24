@@ -15,7 +15,7 @@ While setting up OIDC I hit an `AssumeRoleWithWebIdentity` failure, traced it in
 ## Layout
 
 ```
-site/                         HTML, CSS, resume and project pages
+site/                         HTML, CSS and project pages
 .github/workflows/            Deploy workflow
 ```
 
